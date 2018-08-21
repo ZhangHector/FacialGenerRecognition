@@ -25,7 +25,7 @@ this approach.
 
 CNN Model Architecture
 ----------------------
-<img src="Report/Architecture of CNN.png" height="400" alt="Screenshot"/> 
+<img src="Report/Architecture of CNN.png" height="300" alt="Screenshot"/> 
 
 Experiment
 ----------
@@ -33,5 +33,5 @@ Experiment
 Our method is implemented using Keras with Tensorflow backend. Our model is
 trained by 20 epochs. The final accuracy rate we get is 80.08%. The following graph
 shows training history of our model.
-<img src="Report/Accuracy.png" height="600" alt="Screenshot"/>
-<img src="Report/Loss.png" height="600" alt="Screenshot"/>
+<img src="Report/Accuracy.jpg" height="600" alt="Screenshot"/>
+<img src="Report/Loss.jpg" height="600" alt="Screenshot"/>
