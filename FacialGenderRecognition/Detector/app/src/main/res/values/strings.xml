@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facial Recognition Detector</string>
+    <string name="app_title">Facial Recognition Detector</string>
+    <string name="message_analyze">analyze</string>
+    <string name="message_take">Take</string>
+    <string name="message_end">[END]</string>
+</resources>
